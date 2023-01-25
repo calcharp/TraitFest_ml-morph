@@ -1,0 +1,665 @@
+<?xml version="1.0" ?>
+<dataset>
+   <name/>
+   <comment/>
+   <images>
+      <image file="./test\FMNH_100295.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2781" y="1722"/>
+            <part name="1" x="2636" y="1765"/>
+            <part name="2" x="2749" y="1823"/>
+            <part name="3" x="2905" y="1777"/>
+            <part name="4" x="2569" y="1715"/>
+            <part name="5" x="2476" y="1765"/>
+            <part name="6" x="2560" y="1816"/>
+            <part name="7" x="2414" y="1729"/>
+            <part name="8" x="2336" y="1761"/>
+            <part name="9" x="2403" y="1801"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_100438.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2792" y="1671"/>
+            <part name="1" x="2797" y="1699"/>
+            <part name="2" x="2789" y="1716"/>
+            <part name="3" x="2804" y="1705"/>
+            <part name="4" x="2787" y="1680"/>
+            <part name="5" x="2772" y="1694"/>
+            <part name="6" x="2783" y="1715"/>
+            <part name="7" x="2763" y="1694"/>
+            <part name="8" x="2766" y="1690"/>
+            <part name="9" x="2771" y="1703"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_101108.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2455" y="1685"/>
+            <part name="1" x="2463" y="1732"/>
+            <part name="2" x="2479" y="1762"/>
+            <part name="3" x="2479" y="1727"/>
+            <part name="4" x="2448" y="1698"/>
+            <part name="5" x="2436" y="1746"/>
+            <part name="6" x="2467" y="1775"/>
+            <part name="7" x="2429" y="1734"/>
+            <part name="8" x="2439" y="1770"/>
+            <part name="9" x="2445" y="1781"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_101110 (1).jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2620" y="1732"/>
+            <part name="1" x="2582" y="1758"/>
+            <part name="2" x="2609" y="1791"/>
+            <part name="3" x="2653" y="1780"/>
+            <part name="4" x="2564" y="1714"/>
+            <part name="5" x="2538" y="1749"/>
+            <part name="6" x="2569" y="1779"/>
+            <part name="7" x="2529" y="1735"/>
+            <part name="8" x="2525" y="1759"/>
+            <part name="9" x="2539" y="1772"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_103065.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2802" y="1754"/>
+            <part name="1" x="2600" y="1746"/>
+            <part name="2" x="2795" y="1757"/>
+            <part name="3" x="3006" y="1761"/>
+            <part name="4" x="2472" y="1743"/>
+            <part name="5" x="2330" y="1736"/>
+            <part name="6" x="2469" y="1736"/>
+            <part name="7" x="2228" y="1733"/>
+            <part name="8" x="2103" y="1728"/>
+            <part name="9" x="2217" y="1734"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_103067.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2719" y="1729"/>
+            <part name="1" x="2572" y="1747"/>
+            <part name="2" x="2693" y="1789"/>
+            <part name="3" x="2850" y="1770"/>
+            <part name="4" x="2498" y="1716"/>
+            <part name="5" x="2416" y="1740"/>
+            <part name="6" x="2481" y="1767"/>
+            <part name="7" x="2362" y="1710"/>
+            <part name="8" x="2280" y="1729"/>
+            <part name="9" x="2338" y="1757"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_103564.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2843" y="1619"/>
+            <part name="1" x="2805" y="1680"/>
+            <part name="2" x="2828" y="1747"/>
+            <part name="3" x="2897" y="1687"/>
+            <part name="4" x="2774" y="1622"/>
+            <part name="5" x="2740" y="1683"/>
+            <part name="6" x="2772" y="1738"/>
+            <part name="7" x="2723" y="1650"/>
+            <part name="8" x="2705" y="1682"/>
+            <part name="9" x="2721" y="1729"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_103565.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2694" y="1703"/>
+            <part name="1" x="2618" y="1762"/>
+            <part name="2" x="2670" y="1823"/>
+            <part name="3" x="2753" y="1772"/>
+            <part name="4" x="2598" y="1701"/>
+            <part name="5" x="2547" y="1757"/>
+            <part name="6" x="2588" y="1814"/>
+            <part name="7" x="2530" y="1708"/>
+            <part name="8" x="2515" y="1757"/>
+            <part name="9" x="2533" y="1803"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_104334.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2771" y="1665"/>
+            <part name="1" x="2646" y="1717"/>
+            <part name="2" x="2784" y="1754"/>
+            <part name="3" x="2923" y="1708"/>
+            <part name="4" x="2539" y="1682"/>
+            <part name="5" x="2441" y="1727"/>
+            <part name="6" x="2547" y="1756"/>
+            <part name="7" x="2372" y="1703"/>
+            <part name="8" x="2305" y="1750"/>
+            <part name="9" x="2378" y="1766"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_104335.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2911" y="1701"/>
+            <part name="1" x="2661" y="1728"/>
+            <part name="2" x="2889" y="1784"/>
+            <part name="3" x="3147" y="1728"/>
+            <part name="4" x="2520" y="1684"/>
+            <part name="5" x="2371" y="1727"/>
+            <part name="6" x="2503" y="1760"/>
+            <part name="7" x="2266" y="1699"/>
+            <part name="8" x="2120" y="1725"/>
+            <part name="9" x="2237" y="1759"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_107483.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1832" y="2583"/>
+            <part name="1" x="1709" y="2594"/>
+            <part name="2" x="1830" y="2604"/>
+            <part name="3" x="1966" y="2580"/>
+            <part name="4" x="1629" y="2582"/>
+            <part name="5" x="1537" y="2603"/>
+            <part name="6" x="1629" y="2602"/>
+            <part name="7" x="1475" y="2593"/>
+            <part name="8" x="1401" y="2621"/>
+            <part name="9" x="1470" y="2624"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_107492.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1678" y="2673"/>
+            <part name="1" x="1625" y="2560"/>
+            <part name="2" x="1711" y="2486"/>
+            <part name="3" x="1758" y="2648"/>
+            <part name="4" x="1563" y="2641"/>
+            <part name="5" x="1513" y="2519"/>
+            <part name="6" x="1571" y="2431"/>
+            <part name="7" x="1485" y="2597"/>
+            <part name="8" x="1436" y="2497"/>
+            <part name="9" x="1477" y="2423"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_107678.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1941" y="2580"/>
+            <part name="1" x="1793" y="2636"/>
+            <part name="2" x="1922" y="2713"/>
+            <part name="3" x="2078" y="2634"/>
+            <part name="4" x="1713" y="2568"/>
+            <part name="5" x="1620" y="2632"/>
+            <part name="6" x="1704" y="2691"/>
+            <part name="7" x="1556" y="2587"/>
+            <part name="8" x="1471" y="2626"/>
+            <part name="9" x="1542" y="2676"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_107716.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1877" y="2515"/>
+            <part name="1" x="1718" y="2582"/>
+            <part name="2" x="1848" y="2664"/>
+            <part name="3" x="2002" y="2584"/>
+            <part name="4" x="1653" y="2496"/>
+            <part name="5" x="1568" y="2585"/>
+            <part name="6" x="1636" y="2647"/>
+            <part name="7" x="1520" y="2532"/>
+            <part name="8" x="1436" y="2572"/>
+            <part name="9" x="1494" y="2632"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_111845.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2823" y="1743"/>
+            <part name="1" x="2585" y="1741"/>
+            <part name="2" x="2777" y="1742"/>
+            <part name="3" x="3015" y="1751"/>
+            <part name="4" x="2469" y="1740"/>
+            <part name="5" x="2342" y="1745"/>
+            <part name="6" x="2455" y="1739"/>
+            <part name="7" x="2255" y="1742"/>
+            <part name="8" x="2125" y="1748"/>
+            <part name="9" x="2228" y="1739"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_111848.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2761" y="1708"/>
+            <part name="1" x="2575" y="1730"/>
+            <part name="2" x="2752" y="1763"/>
+            <part name="3" x="2953" y="1735"/>
+            <part name="4" x="2465" y="1699"/>
+            <part name="5" x="2336" y="1724"/>
+            <part name="6" x="2455" y="1745"/>
+            <part name="7" x="2259" y="1700"/>
+            <part name="8" x="2158" y="1723"/>
+            <part name="9" x="2250" y="1740"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_112223.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2708" y="1740"/>
+            <part name="1" x="2562" y="1743"/>
+            <part name="2" x="2717" y="1754"/>
+            <part name="3" x="2874" y="1753"/>
+            <part name="4" x="2459" y="1734"/>
+            <part name="5" x="2343" y="1746"/>
+            <part name="6" x="2464" y="1750"/>
+            <part name="7" x="2263" y="1739"/>
+            <part name="8" x="2170" y="1756"/>
+            <part name="9" x="2261" y="1760"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_116899.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2689" y="1727"/>
+            <part name="1" x="2527" y="1750"/>
+            <part name="2" x="2673" y="1777"/>
+            <part name="3" x="2827" y="1747"/>
+            <part name="4" x="2445" y="1727"/>
+            <part name="5" x="2350" y="1750"/>
+            <part name="6" x="2437" y="1768"/>
+            <part name="7" x="2292" y="1736"/>
+            <part name="8" x="2206" y="1750"/>
+            <part name="9" x="2272" y="1770"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_118816.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2765" y="1788"/>
+            <part name="1" x="2588" y="1777"/>
+            <part name="2" x="2759" y="1784"/>
+            <part name="3" x="2942" y="1798"/>
+            <part name="4" x="2479" y="1773"/>
+            <part name="5" x="2352" y="1768"/>
+            <part name="6" x="2475" y="1764"/>
+            <part name="7" x="2270" y="1766"/>
+            <part name="8" x="2162" y="1761"/>
+            <part name="9" x="2259" y="1761"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_124064.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2720" y="1724"/>
+            <part name="1" x="2609" y="1748"/>
+            <part name="2" x="2714" y="1785"/>
+            <part name="3" x="2839" y="1762"/>
+            <part name="4" x="2532" y="1723"/>
+            <part name="5" x="2449" y="1750"/>
+            <part name="6" x="2528" y="1776"/>
+            <part name="7" x="2384" y="1727"/>
+            <part name="8" x="2322" y="1752"/>
+            <part name="9" x="2382" y="1777"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_128044.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2698" y="1692"/>
+            <part name="1" x="2571" y="1727"/>
+            <part name="2" x="2690" y="1782"/>
+            <part name="3" x="2828" y="1747"/>
+            <part name="4" x="2483" y="1686"/>
+            <part name="5" x="2403" y="1731"/>
+            <part name="6" x="2493" y="1774"/>
+            <part name="7" x="2329" y="1696"/>
+            <part name="8" x="2256" y="1735"/>
+            <part name="9" x="2327" y="1775"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_128566.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1845" y="2574"/>
+            <part name="1" x="1726" y="2599"/>
+            <part name="2" x="1833" y="2663"/>
+            <part name="3" x="1965" y="2626"/>
+            <part name="4" x="1658" y="2558"/>
+            <part name="5" x="1586" y="2591"/>
+            <part name="6" x="1650" y="2634"/>
+            <part name="7" x="1531" y="2559"/>
+            <part name="8" x="1464" y="2593"/>
+            <part name="9" x="1519" y="2628"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_129242.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2869" y="1697"/>
+            <part name="1" x="2685" y="1763"/>
+            <part name="2" x="2835" y="1842"/>
+            <part name="3" x="3039" y="1759"/>
+            <part name="4" x="2591" y="1689"/>
+            <part name="5" x="2481" y="1765"/>
+            <part name="6" x="2582" y="1832"/>
+            <part name="7" x="2398" y="1712"/>
+            <part name="8" x="2301" y="1766"/>
+            <part name="9" x="2389" y="1821"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_133155.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2861" y="1678"/>
+            <part name="1" x="2656" y="1712"/>
+            <part name="2" x="2842" y="1766"/>
+            <part name="3" x="3041" y="1727"/>
+            <part name="4" x="2557" y="1667"/>
+            <part name="5" x="2431" y="1713"/>
+            <part name="6" x="2545" y="1752"/>
+            <part name="7" x="2358" y="1675"/>
+            <part name="8" x="2246" y="1715"/>
+            <part name="9" x="2330" y="1756"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_136922.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2636" y="1746"/>
+            <part name="1" x="2539" y="1754"/>
+            <part name="2" x="2633" y="1800"/>
+            <part name="3" x="2731" y="1796"/>
+            <part name="4" x="2492" y="1717"/>
+            <part name="5" x="2427" y="1744"/>
+            <part name="6" x="2487" y="1775"/>
+            <part name="7" x="2393" y="1719"/>
+            <part name="8" x="2341" y="1745"/>
+            <part name="9" x="2383" y="1774"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_136941.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2824" y="1723"/>
+            <part name="1" x="2629" y="1764"/>
+            <part name="2" x="2792" y="1823"/>
+            <part name="3" x="3004" y="1761"/>
+            <part name="4" x="2527" y="1713"/>
+            <part name="5" x="2405" y="1763"/>
+            <part name="6" x="2512" y="1811"/>
+            <part name="7" x="2322" y="1728"/>
+            <part name="8" x="2218" y="1763"/>
+            <part name="9" x="2307" y="1804"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_141801.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2728" y="1756"/>
+            <part name="1" x="2576" y="1759"/>
+            <part name="2" x="2721" y="1771"/>
+            <part name="3" x="2883" y="1775"/>
+            <part name="4" x="2469" y="1748"/>
+            <part name="5" x="2370" y="1760"/>
+            <part name="6" x="2473" y="1767"/>
+            <part name="7" x="2284" y="1756"/>
+            <part name="8" x="2199" y="1769"/>
+            <part name="9" x="2290" y="1764"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_141802.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2781" y="1722"/>
+            <part name="1" x="2598" y="1768"/>
+            <part name="2" x="2777" y="1808"/>
+            <part name="3" x="2969" y="1745"/>
+            <part name="4" x="2485" y="1723"/>
+            <part name="5" x="2353" y="1776"/>
+            <part name="6" x="2483" y="1811"/>
+            <part name="7" x="2260" y="1748"/>
+            <part name="8" x="2152" y="1784"/>
+            <part name="9" x="2257" y="1814"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_151994.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2747" y="1779"/>
+            <part name="1" x="2534" y="1764"/>
+            <part name="2" x="2719" y="1782"/>
+            <part name="3" x="2929" y="1803"/>
+            <part name="4" x="2430" y="1752"/>
+            <part name="5" x="2304" y="1749"/>
+            <part name="6" x="2420" y="1756"/>
+            <part name="7" x="2225" y="1736"/>
+            <part name="8" x="2103" y="1731"/>
+            <part name="9" x="2196" y="1745"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_154634.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2607" y="1742"/>
+            <part name="1" x="2554" y="1757"/>
+            <part name="2" x="2615" y="1758"/>
+            <part name="3" x="2662" y="1759"/>
+            <part name="4" x="2519" y="1753"/>
+            <part name="5" x="2473" y="1765"/>
+            <part name="6" x="2523" y="1767"/>
+            <part name="7" x="2444" y="1773"/>
+            <part name="8" x="2423" y="1777"/>
+            <part name="9" x="2451" y="1768"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_154636.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2837" y="1701"/>
+            <part name="1" x="2673" y="1749"/>
+            <part name="2" x="2820" y="1821"/>
+            <part name="3" x="3010" y="1765"/>
+            <part name="4" x="2572" y="1687"/>
+            <part name="5" x="2464" y="1734"/>
+            <part name="6" x="2564" y="1794"/>
+            <part name="7" x="2375" y="1685"/>
+            <part name="8" x="2274" y="1726"/>
+            <part name="9" x="2369" y="1774"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_156162.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2494" y="1687"/>
+            <part name="1" x="2493" y="1752"/>
+            <part name="2" x="2470" y="1799"/>
+            <part name="3" x="2470" y="1745"/>
+            <part name="4" x="2514" y="1704"/>
+            <part name="5" x="2527" y="1766"/>
+            <part name="6" x="2510" y="1808"/>
+            <part name="7" x="2552" y="1737"/>
+            <part name="8" x="2575" y="1783"/>
+            <part name="9" x="2544" y="1807"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_161570.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2577" y="1709"/>
+            <part name="1" x="2527" y="1747"/>
+            <part name="2" x="2565" y="1795"/>
+            <part name="3" x="2622" y="1761"/>
+            <part name="4" x="2502" y="1707"/>
+            <part name="5" x="2457" y="1753"/>
+            <part name="6" x="2491" y="1794"/>
+            <part name="7" x="2435" y="1727"/>
+            <part name="8" x="2395" y="1758"/>
+            <part name="9" x="2420" y="1788"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_161571.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2832" y="1696"/>
+            <part name="1" x="2663" y="1736"/>
+            <part name="2" x="2825" y="1783"/>
+            <part name="3" x="3004" y="1731"/>
+            <part name="4" x="2555" y="1701"/>
+            <part name="5" x="2438" y="1737"/>
+            <part name="6" x="2547" y="1773"/>
+            <part name="7" x="2356" y="1715"/>
+            <part name="8" x="2247" y="1738"/>
+            <part name="9" x="2337" y="1767"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_164192.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1901" y="2575"/>
+            <part name="1" x="1766" y="2626"/>
+            <part name="2" x="1878" y="2704"/>
+            <part name="3" x="2019" y="2628"/>
+            <part name="4" x="1699" y="2567"/>
+            <part name="5" x="1624" y="2625"/>
+            <part name="6" x="1685" y="2683"/>
+            <part name="7" x="1567" y="2577"/>
+            <part name="8" x="1489" y="2606"/>
+            <part name="9" x="1547" y="2663"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_165342.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2745" y="1736"/>
+            <part name="1" x="2588" y="1751"/>
+            <part name="2" x="2742" y="1784"/>
+            <part name="3" x="2914" y="1761"/>
+            <part name="4" x="2491" y="1724"/>
+            <part name="5" x="2381" y="1744"/>
+            <part name="6" x="2483" y="1768"/>
+            <part name="7" x="2307" y="1720"/>
+            <part name="8" x="2212" y="1739"/>
+            <part name="9" x="2297" y="1760"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_165721.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2580" y="1722"/>
+            <part name="1" x="2491" y="1731"/>
+            <part name="2" x="2571" y="1748"/>
+            <part name="3" x="2651" y="1751"/>
+            <part name="4" x="2450" y="1722"/>
+            <part name="5" x="2402" y="1734"/>
+            <part name="6" x="2456" y="1744"/>
+            <part name="7" x="2365" y="1730"/>
+            <part name="8" x="2307" y="1731"/>
+            <part name="9" x="2347" y="1744"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_167634.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2648" y="1732"/>
+            <part name="1" x="2562" y="1765"/>
+            <part name="2" x="2628" y="1807"/>
+            <part name="3" x="2719" y="1775"/>
+            <part name="4" x="2523" y="1731"/>
+            <part name="5" x="2472" y="1764"/>
+            <part name="6" x="2511" y="1798"/>
+            <part name="7" x="2441" y="1745"/>
+            <part name="8" x="2396" y="1762"/>
+            <part name="9" x="2428" y="1791"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_171191.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1961" y="2479"/>
+            <part name="1" x="1819" y="2515"/>
+            <part name="2" x="1942" y="2542"/>
+            <part name="3" x="2070" y="2517"/>
+            <part name="4" x="1755" y="2485"/>
+            <part name="5" x="1677" y="2525"/>
+            <part name="6" x="1744" y="2547"/>
+            <part name="7" x="1628" y="2518"/>
+            <part name="8" x="1552" y="2528"/>
+            <part name="9" x="1604" y="2547"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_172618.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2698" y="1701"/>
+            <part name="1" x="2632" y="1752"/>
+            <part name="2" x="2678" y="1798"/>
+            <part name="3" x="2744" y="1761"/>
+            <part name="4" x="2624" y="1706"/>
+            <part name="5" x="2581" y="1755"/>
+            <part name="6" x="2617" y="1794"/>
+            <part name="7" x="2574" y="1728"/>
+            <part name="8" x="2567" y="1760"/>
+            <part name="9" x="2575" y="1791"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_201889.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2713" y="1681"/>
+            <part name="1" x="2613" y="1743"/>
+            <part name="2" x="2690" y="1811"/>
+            <part name="3" x="2800" y="1750"/>
+            <part name="4" x="2568" y="1686"/>
+            <part name="5" x="2512" y="1756"/>
+            <part name="6" x="2559" y="1813"/>
+            <part name="7" x="2466" y="1713"/>
+            <part name="8" x="2415" y="1769"/>
+            <part name="9" x="2458" y="1814"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_219802.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2464" y="1713"/>
+            <part name="1" x="2431" y="1763"/>
+            <part name="2" x="2457" y="1805"/>
+            <part name="3" x="2490" y="1753"/>
+            <part name="4" x="2403" y="1721"/>
+            <part name="5" x="2389" y="1777"/>
+            <part name="6" x="2407" y="1814"/>
+            <part name="7" x="2372" y="1762"/>
+            <part name="8" x="2365" y="1784"/>
+            <part name="9" x="2377" y="1804"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_230348.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2744" y="1722"/>
+            <part name="1" x="2604" y="1743"/>
+            <part name="2" x="2738" y="1787"/>
+            <part name="3" x="2898" y="1762"/>
+            <part name="4" x="2506" y="1715"/>
+            <part name="5" x="2409" y="1742"/>
+            <part name="6" x="2510" y="1769"/>
+            <part name="7" x="2330" y="1720"/>
+            <part name="8" x="2251" y="1743"/>
+            <part name="9" x="2329" y="1768"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_230352.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2755" y="1737"/>
+            <part name="1" x="2615" y="1784"/>
+            <part name="2" x="2727" y="1839"/>
+            <part name="3" x="2869" y="1785"/>
+            <part name="4" x="2558" y="1738"/>
+            <part name="5" x="2469" y="1786"/>
+            <part name="6" x="2545" y="1834"/>
+            <part name="7" x="2420" y="1750"/>
+            <part name="8" x="2338" y="1784"/>
+            <part name="9" x="2400" y="1825"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_230354.jpg">
+         <box top="1" left="1" width="5182" height="3454">
+            <part name="0" x="2675" y="1750"/>
+            <part name="1" x="2517" y="1775"/>
+            <part name="2" x="2681" y="1792"/>
+            <part name="3" x="2852" y="1756"/>
+            <part name="4" x="2400" y="1757"/>
+            <part name="5" x="2287" y="1789"/>
+            <part name="6" x="2406" y="1802"/>
+            <part name="7" x="2192" y="1776"/>
+            <part name="8" x="2105" y="1809"/>
+            <part name="9" x="2201" y="1819"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_230355.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1865" y="2634"/>
+            <part name="1" x="1733" y="2629"/>
+            <part name="2" x="1864" y="2654"/>
+            <part name="3" x="2004" y="2646"/>
+            <part name="4" x="1649" y="2612"/>
+            <part name="5" x="1554" y="2622"/>
+            <part name="6" x="1644" y="2626"/>
+            <part name="7" x="1489" y="2608"/>
+            <part name="8" x="1410" y="2619"/>
+            <part name="9" x="1482" y="2633"/>
+         </box>
+      </image>
+      <image file="./test\FMNH_230356.jpg">
+         <box top="1" left="1" width="3454" height="5182">
+            <part name="0" x="1830" y="2684"/>
+            <part name="1" x="1736" y="2579"/>
+            <part name="2" x="1853" y="2540"/>
+            <part name="3" x="1953" y="2669"/>
+            <part name="4" x="1650" y="2629"/>
+            <part name="5" x="1567" y="2516"/>
+            <part name="6" x="1650" y="2452"/>
+            <part name="7" x="1516" y="2572"/>
+            <part name="8" x="1447" y="2455"/>
+            <part name="9" x="1507" y="2412"/>
+         </box>
+      </image>
+   </images>
+</dataset>

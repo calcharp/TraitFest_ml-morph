@@ -1,0 +1,6 @@
+python preprocessing.py -i image-examples -t landmark-examples/tps-example.tps
+
+python shape_trainer.py -d train.xml -t test.xml -th 7 -dp 3 -c 20  -nu 0.08 -os 20 -f 700
+
+python prediction.py -i test -p predictor.dat 
+python shape_tester.py -t test.xml -p predictor.dat
