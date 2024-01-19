@@ -1,0 +1,28 @@
+Image content and landmark generation for analysis by machine learning
+
+The data used to generate this pipeline are a smaller part of a currently unpublished project and as such, are not able to be provided publicly at this time. 
+
+The images used comprised a vertebrate jaw bone (rodents, mostly), with a top-down (occlusal) view of the teeth. Every jaw is photographed with the same background/substrate, and a metric scale bar.
+
+Ultimately, this framework can be repeated easily, as long as the data used follow this simple recipe:
+
+1) images are of the same element/structure in the same orientation
+2) images have a consistent background
+3) scale bar is included to control for size 
+
+As long as the images are all consistent with one another they are ready for landmarking
+
+Use any preferred landmarking service.
+
+For this, our landmarks were the anteriormost and posteriormost points of each tooth, as well as the medialmost and lateralmost point of each tooth. The ultimate goal of this was to obtain comparable dimensions for the length and width of each tooth.
+We also include two consistent points on the scale-bar, to create a comparative measurement of pixels to mm within each image for standardization of measurements for downstream analysis. 
+
+For landmarking the recipe should be something like:
+
+1) place landmarks as correlates of standard measurements for the field
+2) measurements need to correspond to pixel color differences that can represent the edge of one feature. Often the pixel difference will be between the specimen and the background
+  2.1) if landmarks do not correspond to clear boundaries, then the ML algorithm be unlikely to reliably place homologous landmarks with the testing data
+3) training data should include ~500 images and a file that has the landmarks corresponding to the order of images
+
+For the Phenoscape 2023 workshop, we had limited time, and so we chose to work with a small sample. As a result, our training data were much too small, and not exactly a reliable example for this method.
+The goal and product for this group is a ML pipeline that will generate and populate point-based landmarks to images, based on a training sample.
