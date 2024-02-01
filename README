@@ -2,6 +2,9 @@ Image content and landmark generation for analysis by machine learning
 
 The data used to generate this pipeline are a smaller part of a currently unpublished project and as such, are not able to be provided publicly at this time. 
 
+This pipeline usesm ML-morph (Porto & Voje 2019: https://github.com/agporto/ml-morph)
+A more advanced Readme for generating this kind of analysis from scratch can be found [Here](https://github.com/agporto/ml-morph/blob/master/README.md)
+
 The images used comprised a vertebrate jaw bone (rodents, mostly), with a top-down (occlusal) view of the teeth. Every jaw is photographed with the same background/substrate, and a metric scale bar.
 
 Ultimately, this framework can be repeated easily, as long as the data used follow this simple recipe:
@@ -26,3 +29,15 @@ For landmarking the recipe should be something like:
 
 For the Phenoscape 2023 workshop, we had limited time, and so we chose to work with a small sample. As a result, our training data were much too small, and not exactly a reliable example for this method.
 The goal and product for this group is a ML pipeline that will generate and populate point-based landmarks to images, based on a training sample.
+
+Here follows the steps that our group took to implement this system
+1.) Check the labs.txt file in (https://github.com/calcharp/TraitFest_ml-morph). These are the naming conventions for the folders used in this study.
+  1.1) Create folders titled "image-examples", "landmark-examples"
+  1.2) Insert images into folder titled "image-examples"
+2) Landmark your training data (for this project, we used a training set of 50, due to time constraints, but a training dataset should likely have over 500 landmarked images.
+  2.1) We used [MakeSense](https://www.makesense.ai/), but any image annotation alternative is suitable, such as CVAT. 
+  2.2) annotate the training data. Collect the same landmarks across specimens and do your best to standardize the order and naming convention of the landmarks. 
+  2.3) export the landmarks as a .csv and put into the folder "landmark-examples" (.tps can also be used here)
+3) run the "preprocessing.py" script to generate the training and testing xml files. 
+4) run the "process.ipynb" script to automate landmark generation on the un-annotated images
+  
