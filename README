@@ -1,0 +1,43 @@
+Image content and landmark generation for analysis by machine learning
+
+The data used to generate this pipeline are a smaller part of a currently unpublished project and as such, are not able to be provided publicly at this time. 
+
+This pipeline usesm ML-morph (Porto & Voje 2019: https://github.com/agporto/ml-morph)
+A more advanced Readme for generating this kind of analysis from scratch can be found [Here](https://github.com/agporto/ml-morph/blob/master/README.md)
+
+The images used comprised a vertebrate jaw bone (rodents, mostly), with a top-down (occlusal) view of the teeth. Every jaw is photographed with the same background/substrate, and a metric scale bar.
+
+Ultimately, this framework can be repeated easily, as long as the data used follow this simple recipe:
+
+1) images are of the same element/structure in the same orientation
+2) images have a consistent background
+3) scale bar is included to control for size 
+
+As long as the images are all consistent with one another they are ready for landmarking
+
+Use any preferred landmarking service.
+
+For this, our landmarks were the anteriormost and posteriormost points of each tooth, as well as the medialmost and lateralmost point of each tooth. The ultimate goal of this was to obtain comparable dimensions for the length and width of each tooth.
+We also include two consistent points on the scale-bar, to create a comparative measurement of pixels to mm within each image for standardization of measurements for downstream analysis. 
+
+For landmarking the recipe should be something like:
+
+1) place landmarks as correlates of standard measurements for the field
+2) measurements need to correspond to pixel color differences that can represent the edge of one feature. Often the pixel difference will be between the specimen and the background
+  2.1) if landmarks do not correspond to clear boundaries, then the ML algorithm be unlikely to reliably place homologous landmarks with the testing data
+3) training data should include ~500 images and a file that has the landmarks corresponding to the order of images
+
+For the Phenoscape 2023 workshop, we had limited time, and so we chose to work with a small sample. As a result, our training data were much too small, and not exactly a reliable example for this method.
+The goal and product for this group is a ML pipeline that will generate and populate point-based landmarks to images, based on a training sample.
+
+Here follows the steps that our group took to implement this system
+1.) Check the labs.txt file in (https://github.com/calcharp/TraitFest_ml-morph). These are the naming conventions for the folders used in this study.
+  1.1) Create folders titled "image-examples", "landmark-examples"
+  1.2) Insert images into folder titled "image-examples"
+2) Landmark your training data (for this project, we used a training set of 50, due to time constraints, but a training dataset should likely have over 500 landmarked images.
+  2.1) We used [MakeSense](https://www.makesense.ai/), but any image annotation alternative is suitable, such as CVAT. 
+  2.2) annotate the training data. Collect the same landmarks across specimens and do your best to standardize the order and naming convention of the landmarks. 
+  2.3) export the landmarks as a .csv and put into the folder "landmark-examples" (.tps can also be used here)
+3) run the "preprocessing.py" script to generate the training and testing xml files. 
+4) run the "process.ipynb" script to automate landmark generation on the un-annotated images
+  
